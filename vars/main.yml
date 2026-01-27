@@ -1,3 +1,2 @@
-#SPDX-License-Identifier: MIT-0
 ---
-# vars file for ansible-role-rhel9-cis_workstation_l2
+# defaults file for rhel9_cis_workstation_l2
